@@ -11,5 +11,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raichu03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raichu03/raichu03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raichu03/raichu03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raichu03/raichu03/output/github-snake.svg" />
+</picture>
