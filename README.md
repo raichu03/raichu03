@@ -8,8 +8,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=raichu03&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raichu03&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raichu03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raichu03/raichu03/output/github-snake-dark.svg" />
